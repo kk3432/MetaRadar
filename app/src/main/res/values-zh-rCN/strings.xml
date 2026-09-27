@@ -105,6 +105,13 @@
     <string name="database_devices_count">设备记录：%s</string>
     <string name="database_locations_count">位置记录：%s</string>
     <string name="app_settings_title">应用设置</string>
+    <string name="language">语言</string>
+    <string name="language_dialog_title">应用语言</string>
+    <string name="language_system">跟随系统</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_hungarian">Magyar</string>
+    <string name="language_russian">Русский</string>
     <string name="silent_mode_is_off_toast">离线模式已关闭。您可以在设置中更改。</string>
     <string name="enable_deep_analysis">深度分析（实验性）</string>
     <string name="enable_deep_analysis_description">如果启用深度分析，应用将向所有发现的设备请求更多信息。每次扫描将提供更多数据，但也会增加扫描时间和功耗，并可能暴露您的存在。</string>
